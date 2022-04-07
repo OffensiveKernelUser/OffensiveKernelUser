@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OffensiveKernelUser
+- 👀 I’m interested in JavaScript Development
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on JavaScript Projects
